@@ -13,7 +13,7 @@ https://imgur.com/a/H7khqgM
 // It's very recommended to also use MongoDB, as WOKCommands often relies on it.
 
 # Setting up
-Create a folder named 'Commands' and place 'giveaway.js' under it
+Create a folder named 'Commands' and place 'waterdrop.js' under it
 
 Place all of the files in, and start customizing the different sections to your likings:
 * Prefix and Token (Can be found in config.json)
