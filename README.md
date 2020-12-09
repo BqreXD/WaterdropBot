@@ -13,7 +13,7 @@ https://imgur.com/a/uTdKsht
 // It's very recommended to also use MongoDB, as WOKCommands often relies on it.
 
 # Setting up
-Create a folder named 'Commands' and place 'vgc.js' under it
+Create a folder named 'Commands' and place 'waterdrop.js' under it
 
 Place all of the files in, and start customizing the different sections to your likings:
 * Channels Category (Can be found in vgc.js)
